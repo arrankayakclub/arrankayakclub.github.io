@@ -3,10 +3,22 @@
     <title>Arran Kayak Club</title>
     <link href="https://arrankayakclub.github.io/feed.xml" rel="self" />
     <link href="https://arrankayakclub.github.io" />
-    <updated>1969-12-31T16:00:00-08:00</updated>
+    <updated>2018-12-18T17:25:13+00:00</updated>
     <author>
-        <name>Atlantic</name>
+        <name>Andrew Rigby</name>
     </author>
     <id>https://arrankayakclub.github.io</id>
 
+    <entry>
+        <title>Hello, I like you</title>
+        <author>
+            <name>Mike Godwin</name>
+        </author>
+        <link href="https://arrankayakclub.github.io/hello-i-like-you.html"/>
+        <id>https://arrankayakclub.github.io/hello-i-like-you.html</id>
+
+        <updated>2018-12-18T16:30:19+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>

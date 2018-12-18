@@ -5,9 +5,23 @@
     "home_page_url": "https://arrankayakclub.github.io",
     "feed_url": "https://arrankayakclub.github.io/feed.json",
     "user_comment": "",
+    "icon": "https://arrankayakclub.github.io/media/website/AKC_logo.svg",
     "author": {
-        "name": "Atlantic"
+        "name": "Andrew Rigby"
     },
     "items": [
+        {
+            "id": "https://arrankayakclub.github.io/hello-i-like-you.html",
+            "url": "https://arrankayakclub.github.io/hello-i-like-you.html",
+            "title": "Hello, I like you",
+            "image": "https://arrankayakclub.github.io/media/posts/1/simple_route3b_photo.jpg",
+            "author": {
+                "name": "Mike Godwin"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-12-18T16:30:19+00:00",
+            "date_modified": "2018-12-18T16:30:19+00:00"
+        }
     ]
 }
