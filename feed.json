@@ -15,15 +15,15 @@
             "url": "https://arrankayakclub.github.io/hello-i-like-you.html",
             "title": "Winter Solstice Paddle",
             "summary": "Donec molestie nulla sem, vel finibus lorem gravida ut. Vestibulum venenatis viverra turpis, et tincidunt diam feugiat eget. Proin nec&hellip;",
-            "content_html": "Donec molestie nulla sem, vel finibus lorem gravida ut. Vestibulum venenatis viverra turpis, et tincidunt diam feugiat eget. Proin nec arcu quis erat convallis varius eu a odio. Pellentesque venenatis turpis id dui aliquam, vitae mattis ligula feugiat. Aliquam eget ultricies odio.",
-            "image": "https://arrankayakclub.github.io/media/posts/1/solstice.jpg",
+            "content_html": "<p>Donec molestie nulla sem, vel finibus lorem gravida ut. Vestibulum venenatis viverra turpis, et tincidunt diam feugiat eget. Proin nec arcu quis erat convallis varius eu a odio. Pellentesque venenatis turpis id dui aliquam, vitae mattis ligula feugiat. Aliquam eget ultricies odio.</p>",
+            "image": "https://arrankayakclub.github.io/media/posts/1/solstice2.jpg",
             "author": {
                 "name": "Mike Godwin"
             },
             "tags": [
             ],
-            "date_published": "2018-12-18T16:30:19+00:00",
-            "date_modified": "2018-12-19T11:13:52+00:00"
+            "date_published": "2018-12-19T11:21:12+00:00",
+            "date_modified": "2018-12-19T11:21:18+00:00"
         }
     ]
 }

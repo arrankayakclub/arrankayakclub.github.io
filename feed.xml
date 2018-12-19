@@ -3,7 +3,7 @@
     <title>Arran Kayak Club</title>
     <link href="https://arrankayakclub.github.io/feed.xml" rel="self" />
     <link href="https://arrankayakclub.github.io" />
-    <updated>2018-12-19T11:17:36+00:00</updated>
+    <updated>2018-12-19T11:23:54+00:00</updated>
     <author>
         <name>Andrew Rigby</name>
     </author>
@@ -17,17 +17,17 @@
         <link href="https://arrankayakclub.github.io/hello-i-like-you.html"/>
         <id>https://arrankayakclub.github.io/hello-i-like-you.html</id>
 
-        <updated>2018-12-19T11:13:52+00:00</updated>
+        <updated>2018-12-19T11:21:18+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://arrankayakclub.github.io/media/posts/1/solstice.jpg" alt="" />
+                        <img src="https://arrankayakclub.github.io/media/posts/1/solstice2.jpg" alt="" />
                     Donec molestie nulla sem, vel finibus lorem gravida ut. Vestibulum venenatis viverra turpis, et tincidunt diam feugiat eget. Proin nec&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://arrankayakclub.github.io/media/posts/1/solstice.jpg" alt="" />
-                Donec molestie nulla sem, vel finibus lorem gravida ut. Vestibulum venenatis viverra turpis, et tincidunt diam feugiat eget. Proin nec arcu quis erat convallis varius eu a odio. Pellentesque venenatis turpis id dui aliquam, vitae mattis ligula feugiat. Aliquam eget ultricies odio.
+                    <img src="https://arrankayakclub.github.io/media/posts/1/solstice2.jpg" alt="" />
+                <p>Donec molestie nulla sem, vel finibus lorem gravida ut. Vestibulum venenatis viverra turpis, et tincidunt diam feugiat eget. Proin nec arcu quis erat convallis varius eu a odio. Pellentesque venenatis turpis id dui aliquam, vitae mattis ligula feugiat. Aliquam eget ultricies odio.</p>
             ]]>
         </content>
     </entry>
