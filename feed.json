@@ -11,19 +11,34 @@
     },
     "items": [
         {
-            "id": "https://arrankayakclub.github.io/hello-i-like-you.html",
-            "url": "https://arrankayakclub.github.io/hello-i-like-you.html",
-            "title": "Winter Solstice Paddle",
-            "summary": "Donec molestie nulla sem, vel finibus lorem gravida ut. Vestibulum venenatis viverra turpis, et tincidunt diam feugiat eget. Proin nec&hellip;",
-            "content_html": "<p>Donec molestie nulla sem, vel finibus lorem gravida ut. Vestibulum venenatis viverra turpis, et tincidunt diam feugiat eget. Proin nec arcu quis erat convallis varius eu a odio. Pellentesque venenatis turpis id dui aliquam, vitae mattis ligula feugiat. Aliquam eget ultricies odio.</p>",
-            "image": "https://arrankayakclub.github.io/media/posts/1/solstice2.jpg",
+            "id": "https://arrankayakclub.github.io/winter-solsticepaddle.html",
+            "url": "https://arrankayakclub.github.io/winter-solsticepaddle.html",
+            "title": "Winter SolsticePaddle",
+            "summary": "Duis elit quam, dictum ac tempor at, viverra non ex. Nullam commodo porttitor nulla, at auctor lectus. Nunc et maximus&hellip;",
+            "content_html": "<p>Duis elit quam, dictum ac tempor at, viverra non ex. Nullam commodo porttitor nulla, at auctor lectus. Nunc et maximus massa. Etiam malesuada lacinia sem sed semper. Etiam condimentum tellus sed porttitor interdum. Cras dignissim vitae ante nec maximus. Sed massa lorem, tempus vel tortor interdum, vestibulum imperdiet risus.</p>",
+            "image": "https://arrankayakclub.github.io/media/posts/3/solstice2.jpg",
             "author": {
-                "name": "Mike Godwin"
+                "name": "Andrew Rigby"
             },
             "tags": [
             ],
-            "date_published": "2018-12-19T11:21:12+00:00",
-            "date_modified": "2018-12-19T11:21:18+00:00"
+            "date_published": "2018-12-19T11:35:58+00:00",
+            "date_modified": "2018-12-19T11:35:58+00:00"
+        },
+        {
+            "id": "https://arrankayakclub.github.io/arround-arran.html",
+            "url": "https://arrankayakclub.github.io/arround-arran.html",
+            "title": "Arround Arran",
+            "summary": "Nullam placerat ipsum nec dui venenatis, non viverra lectus feugiat. Quisque lobortis tincidunt elit. Nam consectetur sed est in faucibus.",
+            "content_html": "Nullam placerat ipsum nec dui venenatis, non viverra lectus feugiat. Quisque lobortis tincidunt elit. Nam consectetur sed est in faucibus. Proin ac tortor in velit molestie posuere. Donec eget est nec massa tempor egestas at nec velit. Donec volutpat nisl ac porttitor dapibus. Morbi interdum sem vitae augue bibendum, eget egestas mauris suscipit.",
+            "image": "https://arrankayakclub.github.io/media/posts/2/arround.jpg",
+            "author": {
+                "name": "Andrew Rigby"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-12-19T11:30:49+00:00",
+            "date_modified": "2018-12-19T11:33:37+00:00"
         }
     ]
 }

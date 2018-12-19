@@ -3,31 +3,53 @@
     <title>Arran Kayak Club</title>
     <link href="https://arrankayakclub.github.io/feed.xml" rel="self" />
     <link href="https://arrankayakclub.github.io" />
-    <updated>2018-12-19T11:23:54+00:00</updated>
+    <updated>2018-12-19T11:38:10+00:00</updated>
     <author>
         <name>Andrew Rigby</name>
     </author>
     <id>https://arrankayakclub.github.io</id>
 
     <entry>
-        <title>Winter Solstice Paddle</title>
+        <title>Winter SolsticePaddle</title>
         <author>
-            <name>Mike Godwin</name>
+            <name>Andrew Rigby</name>
         </author>
-        <link href="https://arrankayakclub.github.io/hello-i-like-you.html"/>
-        <id>https://arrankayakclub.github.io/hello-i-like-you.html</id>
+        <link href="https://arrankayakclub.github.io/winter-solsticepaddle.html"/>
+        <id>https://arrankayakclub.github.io/winter-solsticepaddle.html</id>
 
-        <updated>2018-12-19T11:21:18+00:00</updated>
+        <updated>2018-12-19T11:35:58+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://arrankayakclub.github.io/media/posts/1/solstice2.jpg" alt="" />
-                    Donec molestie nulla sem, vel finibus lorem gravida ut. Vestibulum venenatis viverra turpis, et tincidunt diam feugiat eget. Proin nec&hellip;
+                        <img src="https://arrankayakclub.github.io/media/posts/3/solstice2.jpg" alt="" />
+                    Duis elit quam, dictum ac tempor at, viverra non ex. Nullam commodo porttitor nulla, at auctor lectus. Nunc et maximus&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://arrankayakclub.github.io/media/posts/1/solstice2.jpg" alt="" />
-                <p>Donec molestie nulla sem, vel finibus lorem gravida ut. Vestibulum venenatis viverra turpis, et tincidunt diam feugiat eget. Proin nec arcu quis erat convallis varius eu a odio. Pellentesque venenatis turpis id dui aliquam, vitae mattis ligula feugiat. Aliquam eget ultricies odio.</p>
+                    <img src="https://arrankayakclub.github.io/media/posts/3/solstice2.jpg" alt="" />
+                <p>Duis elit quam, dictum ac tempor at, viverra non ex. Nullam commodo porttitor nulla, at auctor lectus. Nunc et maximus massa. Etiam malesuada lacinia sem sed semper. Etiam condimentum tellus sed porttitor interdum. Cras dignissim vitae ante nec maximus. Sed massa lorem, tempus vel tortor interdum, vestibulum imperdiet risus.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Arround Arran</title>
+        <author>
+            <name>Andrew Rigby</name>
+        </author>
+        <link href="https://arrankayakclub.github.io/arround-arran.html"/>
+        <id>https://arrankayakclub.github.io/arround-arran.html</id>
+
+        <updated>2018-12-19T11:33:37+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://arrankayakclub.github.io/media/posts/2/arround.jpg" alt="" />
+                    Nullam placerat ipsum nec dui venenatis, non viverra lectus feugiat. Quisque lobortis tincidunt elit. Nam consectetur sed est in faucibus.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://arrankayakclub.github.io/media/posts/2/arround.jpg" alt="" />
+                Nullam placerat ipsum nec dui venenatis, non viverra lectus feugiat. Quisque lobortis tincidunt elit. Nam consectetur sed est in faucibus. Proin ac tortor in velit molestie posuere. Donec eget est nec massa tempor egestas at nec velit. Donec volutpat nisl ac porttitor dapibus. Morbi interdum sem vitae augue bibendum, eget egestas mauris suscipit.
             ]]>
         </content>
     </entry>
