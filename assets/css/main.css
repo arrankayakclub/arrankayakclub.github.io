@@ -132,7 +132,7 @@ h4,
 h5,
 h6 {
   color: #343434;
-  font-family: "Playfair Display", serif;
+  font-family: 'Montserrat', "Playfair Display", serif;
   font-weight: 400;
   letter-spacing: 0.05rem;
   line-height: 1.2;
@@ -227,7 +227,7 @@ strong {
   font-weight: 700; }
 
 blockquote {
-  font-family: "Playfair Display", serif;
+  font-family: 'Montserrat', "Playfair Display", serif;
   padding: 0 15%; }
   blockquote {
     font-size: 1.13778rem; }
@@ -597,7 +597,7 @@ textarea {
 /* Logo ------------------------ */
 .logo {
   color: #343434 !important;
-  font-family: "Playfair Display", serif;
+  font-family: 'Montserrat', "Playfair Display", serif;
   font-weight: 700;
   position: relative;
   z-index: 1; }
@@ -1593,7 +1593,7 @@ main {
 .dropcap:first-letter {
   color: #343434;
   float: left;
-  font-family: "Playfair Display", serif;
+  font-family: 'Montserrat', "Playfair Display", serif;
   line-height: 0.6;
   margin-right: 0.53333rem;
   padding: 0.53333rem 0.53333rem 0.53333rem 0; }
